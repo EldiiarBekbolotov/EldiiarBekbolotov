@@ -1,5 +1,8 @@
-<h1 align="center">Hello</h1>
-<h3 align="center">I'm working to revamp this whole profile, follow to get notified when it happens</h3>
+## Eldiiar Bekbolotov
+Web Developer interested in User Interface (UI) design
+## About
+
+#### I'm working to revamp this whole profile, follow to get notified when it happens
 
 <p>I enjoy creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/>I've written nearly 350,000 lines of code so far, and will be making my repositories public one by one.<br/></p>
 
