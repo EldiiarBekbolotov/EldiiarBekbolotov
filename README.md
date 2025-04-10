@@ -4,7 +4,7 @@ Web Developer interested in User Interface (UI) design
 
 #### I'm working to revamp this whole profile, follow to get notified when it happens
 
-<p>I enjoy creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/>I've written nearly 350,000 lines of code so far, and will be making my repositories public one by one.<br/></p>
+<p>I enjoy creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
