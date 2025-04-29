@@ -1,11 +1,13 @@
 ## Eldiiar Bekbolotov
-Web Developer interested in User Interface (UI) design
+Web Developer interested in User Interface (UI) design.<br/>
+Sophomore in high school.
 ## About
 
 #### I'm working to revamp this whole profile, follow to get notified when it happens
 
-<p>I enjoy creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/></p>
+<p>My passion is creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/></p>
 
+I've written over 350,000 total lines of code in the following languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
