@@ -1,6 +1,7 @@
 ## Eldiiar Bekbolotov
 Web Developer interested in User Interface (UI) design.<br/>
 Sophomore in high school. 
+
 ## About
 
 #### I'm working to revamp this whole profile, follow to get notified when it happens
