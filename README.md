@@ -1,5 +1,5 @@
 ## Eldiiar Bekbolotov
-Web Developer interested in User Interface (UI) design.<br/>
+Interested in Full Stack Development, User Interface (UI) design, Competitive Programming, and Machine Learning.<br/>
 Sophomore in high school. 
 
 ## About
