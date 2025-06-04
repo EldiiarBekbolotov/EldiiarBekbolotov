@@ -4,7 +4,7 @@ Sophomore in high school.
 
 ## About
 
-#### I'm working to revamp this whole profile, follow to get notified when it happens
+#### I'm working to revamp this whole profile, follow to get notified when it happens!
 
 <p>My passion is creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/></p>
 
