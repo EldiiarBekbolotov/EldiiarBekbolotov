@@ -6,7 +6,7 @@ Sophomore in high school.
 
 #### I'm working to revamp this whole profile, follow to get notified when it happens!
 
-<p>My passion is creating web applications with sturdy and fast engineering along with appealing and accesible design.<br/></p>
+<p>My passion is creating web applications with sturdy and fast engineering along with appealing and accessible design.<br/></p>
 
 ### Programming Toolkit
 <div align="left">
