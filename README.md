@@ -1,6 +1,6 @@
 ## Eldiiar Bekbolotov
 Interested in Full Stack Development, User Interface (UI) design, Competitive Programming, and Machine Learning.<br/>
-Sophomore in high school. 
+Incoming junior in high school. 
 
 ## About
 
