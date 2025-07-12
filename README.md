@@ -4,10 +4,8 @@ Sophomore in high school.
 
 ## About
 
-#### I'm working to revamp this whole profile, follow to get notified when it happens!
-
 <p>My passion is creating web applications with sturdy and fast engineering along with appealing and accessible design.<br/></p>
-
+<!--
 ### Programming Toolkit
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
@@ -45,6 +43,6 @@ Sophomore in high school.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+</div>-->
 
 <p> <img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=dc0606&style=flat" alt="longfields" /> </p>
