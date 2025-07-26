@@ -1,4 +1,5 @@
 ## Eldiiar Bekbolotov
+Software Engineer, Designer, Social Entrepreneur, Student.<br/>
 Interested in Full Stack Development, User Interface (UI) design, Competitive Programming, and Machine Learning.<br/>
 Incoming junior in high school. 
 
