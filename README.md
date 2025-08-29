@@ -1,19 +1,21 @@
 <samp>
     <h1>Eldiiar Bekbolotov</h1>
-    <p>Creating web applications with sturdy and fast engineering along with appealing and accessible design.</p>
-    <p>Junior in high school</p>
-    <br />
+    <p>😁 Likes creating web applications with sturdy and fast engineering along with appealing and accessible design.</p>
+    <p>📚 Is a junior in high school.</p>
     <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code>
     <br />
     <br />
 </samp>
 
+### <samp>Connect with me via</samp>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://linkedin.com/in/eldiiar) 
 
+### <samp>GitHub stats</samp>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=eldiiarbekbolotov&theme=aura&hide_border=true)
 
-<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=dc0606&style=for-the-badge&abbreviated=true" alt="longfields" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=000000&style=for-the-badge&abbreviated=true" alt="longfields" /></p>
 <!--yhype tracking started 29 aug 2025-->
 
 
