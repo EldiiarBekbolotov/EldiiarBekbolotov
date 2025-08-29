@@ -1,11 +1,25 @@
-## Eldiiar Bekbolotov
-Software Engineer, Designer, Social Entrepreneur, Student.<br/>
-Interested in Full Stack Development, User Interface (UI) design, Competitive Programming, and Machine Learning.<br/>
-Incoming junior in high school. 
+<samp>
+    <h1>Eldiiar Bekbolotov</h1>
+    <p>Creating web applications with sturdy and fast engineering along with appealing and accessible design.</p>
+    <p>Junior in high school</p>
+    <br />
+    <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code>
+    <br />
+    <br />
+</samp>
 
-## About
 
-<p>My passion is creating web applications with sturdy and fast engineering along with appealing and accessible design.<br/></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://linkedin.com/in/eldiiar) 
+
+![](https://nirzak-streak-stats.vercel.app/?user=eldiiarbekbolotov&theme=aura&hide_border=true)
+
+<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=dc0606&style=for-the-badge&abbreviated=true" alt="longfields" /></p>
+<!--yhype tracking started 29 aug 2025-->
+
+
+![](https://hit.yhype.me/github/profile?account_id=75341047)
+
+
 <!--
 ### Programming Toolkit
 <div align="left">
@@ -46,5 +60,3 @@ Incoming junior in high school.
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>-->
-
-<p> <img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=dc0606&style=flat" alt="longfields" /> </p>
