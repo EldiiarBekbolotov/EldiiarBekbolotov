@@ -14,6 +14,8 @@
 ### <samp>GitHub stats</samp>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=eldiiarbekbolotov&theme=aura&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=eldiiarbekbolotov&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=1a73ef&icon_color=1a73ef&bg_color=00000000&card_width=400" alt="Eldiiar Bekbolotov's GitHub Stats" />
+
 
 <p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=000000&style=for-the-badge&abbreviated=true" alt="longfields" /></p>
 <!--yhype tracking started 29 aug 2025-->
