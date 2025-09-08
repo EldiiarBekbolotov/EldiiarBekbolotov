@@ -19,7 +19,7 @@
 
 <!--<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=000000&style=for-the-badge&abbreviated=true" alt="longfields" /></p>-->
 
-<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=000000&style=for-the-badge&abbreviated=false" alt="longfields" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=longfields&label=Profile%20views&color=000000&style=for-the-badge" alt="longfields" /></p>
 
 <!--yhype tracking started 29 aug 2025-->
 
