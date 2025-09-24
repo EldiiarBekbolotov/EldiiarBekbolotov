@@ -3,7 +3,7 @@
     <p>😁 Likes creating web applications with sturdy and fast engineering along with appealing and accessible design.</p>
     <p>📚 Is a junior in high school.</p>
     <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> 
-    <br />
+    <br /> 
     <br /> 
 </samp>
 
