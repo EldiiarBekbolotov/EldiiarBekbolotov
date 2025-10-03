@@ -1,4 +1,4 @@
-<samp>
+<samp> 
     <h1>Eldiiar Bekbolotov</h1>   
     <p>😁 Likes creating web applications with sturdy and fast engineering along with appealing and accessible design.</p>
     <p>📚 Is a junior in high school.</p>
