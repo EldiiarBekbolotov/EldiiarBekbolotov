@@ -4,7 +4,7 @@
     <p>📚 Is a junior in high school.</p>
     <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> 
     <br /> 
-    <br />  
+    <br />   
 </samp>
 
 [![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
