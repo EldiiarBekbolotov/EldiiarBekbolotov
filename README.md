@@ -10,7 +10,7 @@
 
 ### <samp>Connect with me via</samp>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://linkedin.com/in/eldiiar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/eldiiar) 
 
 ### <samp>GitHub stats</samp>
 
