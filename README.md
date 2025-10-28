@@ -1,6 +1,5 @@
 <samp>  
     <h1>Eldiiar Bekbolotov</h1>   
-    <p>Merging fast-engineering perfection with accessible, compelling design to create pixel-perfect experiences</p> 
     <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> <code>Human-Computer Interaction</code> 
     <br /> 
     <br />    
