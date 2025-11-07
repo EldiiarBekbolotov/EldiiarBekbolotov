@@ -7,7 +7,7 @@
 
 [![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
 
-### <samp>Need a website? Connect with me via</samp>
+### <samp>Connect with me via</samp>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/eldiiar) 
 
