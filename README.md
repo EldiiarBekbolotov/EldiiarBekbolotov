@@ -1,5 +1,5 @@
 <samp>  
-    <h1>Eldiiar Bekbolotov</h1>   
+    <h1>Eldiiar Bekbolotov</h1>
     <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> <code>Human-Computer Interaction</code> 
     <br /> 
     <br />    
