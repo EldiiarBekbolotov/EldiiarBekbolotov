@@ -1,8 +1,8 @@
 <samp>  
     <h1>Eldiiar Bekbolotov</h1>
-    <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> <code>Human-Computer Interaction</code> 
-    <br /> 
-    <br />    
+    <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> <code>Human-Computer Interaction</code>
+    <br />
+    <br />
 </samp>
 
 [![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
