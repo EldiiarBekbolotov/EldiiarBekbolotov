@@ -1,6 +1,67 @@
-<samp>  
-    <h1>Eldiiar Bekbolotov</h1>
-    <code>Frontend</code> <code>Backend</code> <code>UI/UX design</code> <code>Competitive Programming</code> <code>AI/ML</code> <code>Graphic Design</code> <code>Human-Computer Interaction</code>
-    <br />
-    <br />
-</samp>
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Artur Ajaoa">
+  <defs>
+    <!-- Glassmorphism blur filter -->
+    <filter id="glass" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.35 0" result="glass"/>
+      <feBlend in="SourceGraphic" in2="glass" mode="overlay"/>
+    </filter>
+
+    <!-- Gradient for text -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7bd8ff"/>
+      <stop offset="50%" stop-color="#b097ff"/>
+      <stop offset="100%" stop-color="#ff8ad6"/>
+    </linearGradient>
+
+    <!-- Rising reveal mask -->
+    <mask id="riseMask">
+      <rect x="0" y="300" width="1200" height="300" fill="white">
+        <animate attributeName="y" from="300" to="0" dur="1.4s" fill="freeze"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- Glassmorphic card -->
+  <rect x="200" y="40" width="800" height="220" rx="28"
+        fill="rgba(255,255,255,0.12)"
+        stroke="rgba(255,255,255,0.22)"
+        stroke-width="1.5"
+        filter="url(#glass)"/>
+
+  <!-- Name with gradient + mask -->
+  <text x="600" y="120"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="48"
+        fill="url(#grad)"
+        mask="url(#riseMask)">
+    Eldiiar Bekbolotov
+  </text>
+
+  <!-- Role -->
+  <text x="600" y="160"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="26"
+        fill="#FFFFFF"
+        opacity="0">
+    Software Engineer
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- Education -->
+  <text x="600" y="195"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="22"
+        fill="#FFFFFF"
+        opacity="0">
+    LDHSS
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.75s" fill="freeze"/>
+  </text>
+</svg>
