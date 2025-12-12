@@ -1,4 +1,8 @@
+<div align='center'>
+<p align="center">
 <img src="./b.svg" width="900" alt="Eldiiar Bekbolotov"/>
+</p>
+
 [![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
 
 ### <samp>Connect with me via</samp>
@@ -62,3 +66,4 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>-->
+</div>
