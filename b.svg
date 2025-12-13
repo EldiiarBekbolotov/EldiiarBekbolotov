@@ -31,7 +31,7 @@
   </defs>
   <!-- Glass card with blurred background image -->
   <g clip-path="url(#cardClip)">
-    <image href="./bg.png"
+    <image href="./bg.png?v=2"
            x="150" y="50" width="900" height="280" preserveAspectRatio="xMidYMid slice" filter="url(#glassCard)"/>
   </g>
 
