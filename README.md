@@ -1,6 +1,6 @@
 <div align='center'>
 <p align="center">
-<img src="./b.svg" width="900" alt="Eldiiar Bekbolotov"/>
+<img src="./b.svg?v=1" width="900" alt="Eldiiar Bekbolotov"/>
 </p>
 
 [![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
