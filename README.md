@@ -3,7 +3,7 @@
 <img src="./b.svg?v=3" width="900" alt="Eldiiar Bekbolotov"/>
 </p>
   
-[![Website](https://img.shields.io/badge/Website-eldiiarcodes.web.app-FFBB00?style=for-the-badge&logo=github&logoColor=white)](https://eldiiarcodes.web.app)
+[![Website](https://img.shields.io/badge/Website-eldiiar.com-4700a3?style=for-the-badge&logo=github&logoColor=white)](https://eldiiar.com)
 
 ### <samp>Connect with me via</samp>
 
@@ -25,6 +25,8 @@
 
 
 ![](https://hit.yhype.me/github/profile?account_id=75341047)
+
+
 
 <!--
 ### Programming Toolkit
