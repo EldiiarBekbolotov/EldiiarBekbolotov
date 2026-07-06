@@ -3,7 +3,7 @@
 <img src="./b.svg?v=3" width="900" alt="Eldiiar Bekbolotov"/>
 </p>
   
-[![Website](https://img.shields.io/badge/Website-eldiiar.com-4700a3?style=for-the-badge&logo=github&logoColor=white)](https://eldiiar.com)
+[![Website](https://img.shields.io/badge/Website-eldiiar.com-f00a5e?style=for-the-badge&logo=github&logoColor=white)](https://eldiiar.com)
 
 ### <samp>Connect with me via</samp>
 
